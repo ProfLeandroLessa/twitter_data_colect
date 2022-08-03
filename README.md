@@ -1,14 +1,13 @@
 
 <h1>Coleta de dados no Twitter</h1>
 
-![](doc_imgs/img_twitter_data_collect.png)
-
 <p align = center> 
 <a href = '#description'>Sobre</a> •
 <a href = '#tecnologies'>Tecnologias e bibliotecas</a> •
 <a href = '#Manual'>Manual</a>
 </p>
 
+![](doc_imgs/img_twitter_data_collect.png)
 
 <h2 id = 'description'> Sobre</h2>
 
